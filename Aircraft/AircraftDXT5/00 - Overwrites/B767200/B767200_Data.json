@@ -1,0 +1,121 @@
+{
+	"id": [
+		"B767200",
+		"B767200ER",
+		"B767200SF"
+	],
+	"copyFrom": "B767200",
+	"numEngines": 2,
+	"wingSpan_M": 47.57,
+	"length_M": 48.51,
+	"forcedReScale" : 1.0800,
+	"size": 2,
+	"threeStepSize": 2,
+	"displayName": [
+		"B767-200","B767-200ER","B767-200SF"
+	],
+	"iCAOCode": [
+		"B762"
+	],
+	"manufacturer": [
+		"Boeing"
+	],
+	"numBuilt": [
+		128,121,72
+	],
+	"yearIntroduced": [
+		1981,1984,1998
+	],
+	"yearLastProduced": [
+		2000,2000,2020
+	],
+	"yearRetired": [
+		2020,2025,2035
+	],
+	"capacity_PAX": [
+		214,214,0
+	],
+	"exitLimit_PAX": [
+		290,290,0
+	],
+	"seatsAbreast": [
+		7
+	],
+	"capacityULDLowerDeck": [
+		3
+	],
+	"capacityULDUpperDeck": [
+		0,0,4
+	],
+	"capacityBulkCargo_KG": [
+		20000
+	],
+	"range_KM": [
+		7200,12200,7200
+	],
+	"speed_KMH": [
+		900
+	],
+	"etops_Minutes": [
+		180
+	],
+	"fuelCapacity_L": [
+		44082,
+		63752,
+		44082
+	],
+	"engineType": [
+		"turbofan"
+	],
+	"takeoffDistance_M": [
+		1900,2480,2500
+	],
+	"maxTOW_KG": [
+		142900,179200,179200
+	],
+	"needStairs": [
+		true
+	],
+	"needPushback": [
+		true
+	],
+	"needPaved": [
+		true
+	],
+	"needHeavyPaved": [
+		false
+	],
+	"canGetPushback": [
+		true
+	],
+	"jetbridgePoints": [
+		1
+	],
+	"conveyerPoints": [
+		2
+	],
+	"cleaningPoints": [
+		1
+	],
+	"cateringPoints": [
+		1
+	],
+	"sonicBoom": [
+		false
+	],
+	"vIP": [
+		false
+	],
+	"combi": [
+		false
+	],
+	"cargo": [
+		false,false,true
+	],
+	"loud": [
+		false
+	],
+	"quiet": [
+		false
+	]
+}

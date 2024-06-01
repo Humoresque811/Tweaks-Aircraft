@@ -1,0 +1,117 @@
+{
+	"id": [
+		"TU144"
+	],
+	"copyFrom": "TU144",
+	"numEngines": 4,
+	"wingSpan_M": 28.8,
+	"length_M": 65.7,
+	"forcedReScale" : 1.0226,
+	"size": 0,
+	"threeStepSize": 2,
+	"displayName": [
+		"Tu-144"
+	],
+	"iCAOCode": [
+		"T144"
+	],
+	"manufacturer": [
+		"Tupolev"
+	],
+	"numBuilt": [
+		16
+	],
+	"yearIntroduced": [
+		1968
+	],
+	"yearLastProduced": [
+		1983
+	],
+	"yearRetired": [
+		1983
+	],
+	"capacity_PAX": [
+		150
+	],
+	"exitLimit_PAX": [
+		165
+	],
+	"seatsAbreast": [
+		4
+	],
+	"capacityULDLowerDeck": [
+		0
+	],
+	"capacityULDUpperDeck": [
+		0
+	],
+	"capacityBulkCargo_KG": [
+		3200
+	],
+	"range_KM": [
+		6500
+	],
+	"speed_KMH": [
+		2125
+	],
+	"etops_Minutes": [
+		360
+	],
+	"fuelCapacity_L": [
+		54239
+	],
+	"engineType": [
+		"afterburner"
+	],
+	"takeoffDistance_M": [
+		2930
+	],
+	"maxTOW_KG": [
+		207000
+	],
+	"needStairs": [
+		true
+	],
+	"needPushback": [
+		true
+	],
+	"needPaved": [
+		true
+	],
+	"needHeavyPaved": [
+		true
+	],
+	"canGetPushback": [
+		true
+	],
+	"jetbridgePoints": [
+		3
+	],
+	"conveyerPoints": [
+		3
+	],
+	"cleaningPoints": [
+		3
+	],
+	"cateringPoints": [
+		3
+	],
+	"sonicBoom": [
+		true
+	],
+	"vIP": [
+		false
+	],
+	"combi": [
+		false
+	],
+	"cargo": [
+		false
+	],
+	"loud": [
+		true
+	],
+	"quiet": [
+		false
+	]
+}

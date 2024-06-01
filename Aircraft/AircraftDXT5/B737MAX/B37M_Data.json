@@ -1,0 +1,127 @@
+{
+	"id": [
+		"B37M",
+		"BBJMAX7"
+	],
+	"copyFrom": "B737800",
+	"numEngines": 2,
+	"wingSpan_M": 35.90,
+	"length_M": 35.59,
+	"forcedReScale" : 1.0619,
+	"size": 3,
+	"threeStepSize": 1,
+	"displayName": [
+		"B737 MAX 7",
+		"Boeing Business Jet MAX 7"
+	],
+	"iCAOCode": [
+		"B37M"
+	],
+	"manufacturer": [
+		"Boeing"
+	],
+	"numBuilt": [
+		6,
+		1
+	],
+	"yearIntroduced": [
+		2017,
+		2021
+	],
+	"yearLastProduced": [
+		2040
+	],
+	"yearRetired": [
+		2050
+	],
+	"capacity_PAX": [
+		156,
+		8
+	],
+	"exitLimit_PAX": [
+		172,
+		19
+	],
+	"seatsAbreast": [
+		6
+	],
+	"capacityULDLowerDeck": [
+		0
+	],
+	"capacityULDUpperDeck": [
+		0
+	],
+	"capacityBulkCargo_KG": [
+		4996
+	],
+	"range_KM": [
+		7130,
+		12225
+	],
+	"speed_KMH": [
+		839
+	],
+	"etops_Minutes": [
+		180
+	],
+	"fuelCapacity_L": [
+		17996,
+		26675
+	],
+	"engineType": [
+		"turbofan"
+	],
+	"takeoffDistance_M": [
+		2042
+	],
+	"maxTOW_KG": [
+		80286
+	],
+	"needStairs": [
+		true,
+		false
+	],
+	"needPushback": [
+		true
+	],
+	"needPaved": [
+		true
+	],
+	"needHeavyPaved": [
+		false
+	],
+	"canGetPushback": [
+		true
+	],
+	"jetbridgePoints": [
+		2
+	],
+	"conveyerPoints": [
+		2
+	],
+	"cleaningPoints": [
+		1
+	],
+	"cateringPoints": [
+		1
+	],
+	"sonicBoom": [
+		false
+	],
+	"vIP": [
+		false,
+		true
+	],
+	"combi": [
+		false
+	],
+	"cargo": [
+		false
+	],
+	"loud": [
+		false
+	],
+	"quiet": [
+		true
+	]
+}

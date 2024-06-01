@@ -1,0 +1,30 @@
+{
+  "aircraftType" : "A319neo",
+  "liveryFileName" : "A320neoFamily.png",
+  "pixelSize" : 150,
+  "liveryComponent" : [
+			{  
+      "name":"myshadow_config_self_makeshadow",
+      "layerOrder" : 0,
+            "slicePosition":{  
+                "x":24,
+                "y":1435
+            },
+            "sliceSize":{  
+                "x":695,
+                "y":744
+            },
+            "position":{  
+                "x":-1,
+                "y":0.4,
+                "z":0
+            },
+			"scale":{
+			    "x":1.05,
+                "y":1,
+                "z":1.0
+			},
+      "rotation" : 0
+    }	
+    ]
+}

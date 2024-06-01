@@ -1,0 +1,117 @@
+{
+	"id": [
+		"CONCORDE"
+	],
+	"copyFrom": "CONCORDE",
+	"numEngines": 4,
+	"wingSpan_M": 25.6,
+	"length_M": 61.66,
+	"forcedReScale" : 1.1084,
+	"size": 1,
+	"threeStepSize": 2,
+	"displayName": [
+		"Concorde"
+	],
+	"iCAOCode": [
+		"CONC"
+	],
+	"manufacturer": [
+		"BAE Systems/Aérospatiale"
+	],
+	"numBuilt": [
+		20
+	],
+	"yearIntroduced": [
+		1969
+	],
+	"yearLastProduced": [
+		1979
+	],
+	"yearRetired": [
+		2003
+	],
+	"capacity_PAX": [
+		90
+	],
+	"exitLimit_PAX": [
+		128
+	],
+	"seatsAbreast": [
+		4
+	],
+	"capacityULDLowerDeck": [
+		0
+	],
+	"capacityULDUpperDeck": [
+		0
+	],
+	"capacityBulkCargo_KG": [
+		2400
+	],
+	"range_KM": [
+		7223
+	],
+	"speed_KMH": [
+		2158
+	],
+	"etops_Minutes": [
+		360
+	],
+	"fuelCapacity_L": [
+		55811
+	],
+	"engineType": [
+		"afterburner"
+	],
+	"takeoffDistance_M": [
+		3600
+	],
+	"maxTOW_KG": [
+		185070
+	],
+	"needStairs": [
+		true
+	],
+	"needPushback": [
+		true
+	],
+	"needPaved": [
+		true
+	],
+	"needHeavyPaved": [
+		true
+	],
+	"canGetPushback": [
+		true
+	],
+	"jetbridgePoints": [
+		1
+	],
+	"conveyerPoints": [
+		1
+	],
+	"cleaningPoints": [
+		1
+	],
+	"cateringPoints": [
+		1
+	],
+	"sonicBoom": [
+		true
+	],
+	"vIP": [
+		true
+	],
+	"combi": [
+		false
+	],
+	"cargo": [
+		false
+	],
+	"loud": [
+		true
+	],
+	"quiet": [
+		false
+	]
+}

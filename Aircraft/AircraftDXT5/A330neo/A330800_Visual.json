@@ -1,0 +1,330 @@
+{  
+    "aircraftType":"A330800",
+    "liveryFileName":"A330neo.png",
+    "pixelSize":150,
+    "liveryComponent":[  
+        {
+            "name":"config_exactly_RightWing_LeftWing_NightWindows (3)_NightWindows (6)_exactly_disable",
+            "layerOrder":0,
+            "slicePosition":{
+                "x":0,
+                "y":0
+            },
+            "sliceSize":{
+                "x":0,
+                "y":0
+            },
+            "position":{
+                "x":0.0,
+                "y":0.0,
+                "z":0.0
+            },
+            "rotation":0
+        },
+	{  
+      "name":"myshadow_config_self_makeshadow",
+      "layerOrder" : 0,
+            "slicePosition":{  
+				"x" : 30,
+				"y" : 2954
+			},
+			"sliceSize" : {
+				"x" : 957,
+				"y" : 1032
+            },
+            "position":{  
+                "x":0,
+                "y":0,
+                "z":0
+            },
+			"scale":{
+			    "x":1,
+                "y":0.9,
+                "z":1
+			},			
+      "rotation" : 0
+    },		
+				{  
+            "name":"config_exactly_Cone_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":0,
+                "y":1.08,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },	
+				{  
+            "name":"config_exactly_Cone (1)_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":0,
+                "y":-1.08,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },			
+			{
+      "name": "MiddleWindowRight",
+      "layerOrder": 7,
+      "slicePosition" : {
+                "x":1931,
+                "y":117
+            },
+            "sliceSize":{  
+                "x":1756,
+                "y":23
+            },
+            "position":{  
+                "x":3.94433333333333333333333333,
+                "y":2.079,
+                "z":0
+            },
+			"flip": {
+                "x": 0,
+                "y": 0
+            },			
+            "rotation":0
+    },
+			{
+      "name": "MiddleWindowLeft",
+      "layerOrder": 7,
+      "slicePosition" : {
+                "x":1931,
+                "y":117
+            },
+            "sliceSize":{  
+                "x":1756,
+                "y":23
+            },
+            "position":{  
+                "x":3.9423333333333333333333333333333,
+                "y":-2.079,
+                "z":0
+            },
+			"flip": {
+                "x": 0,
+                "y": 1
+            },			
+            "rotation":0
+    },	
+		{
+            "name": "config_exactly_MiddleWindowLeft_MiddleWindowRight_exactly_makewindow",
+            "layerOrder": 0,
+            "slicePosition": {
+                "x": 1,
+                "y": 1
+            },
+            "sliceSize": {
+                "x": 1,
+                "y": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "rotation": 0
+        },		
+		{
+            "name":"LeftWingNEO",
+            "layerOrder":2,
+            "slicePosition":{
+                "x":14,
+                "y":348
+            },
+            "sliceSize":{
+                "x":3677,
+                "y":2528
+            },
+            "position":{
+                "x":-0.58666666666666666666666666666667,
+                "y":12.13333333,
+                "z":0.0
+            },
+			"flip": {
+                "x": 0,
+                "y": 1
+            },
+            "rotation":90
+        },
+		{
+            "name":"RightWingNEO",
+            "layerOrder":2,
+            "slicePosition":{
+                "x":14,
+                "y":348
+            },
+            "sliceSize":{
+                "x":3677,
+                "y":2528
+            },
+            "position":{
+                "x":-0.58666666666666666666666666666667,
+                "y":-12.13333333,
+                "z":0.0
+            },
+			"flip": {
+                "x": 0,
+                "y": 0
+            },
+            "rotation":270
+        },
+				{  
+            "name":"config_exactly_LandingLight (1)_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-1.7,
+                "y":0,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_LandingLight_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-1.7,
+                "y":0,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+{  
+            "name":"config_exactly_PortLight_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-0.08,
+                "y":0.1533333333333,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_StarbordLight_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":-0.08,
+                "y":-0.1533333333333,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_StrobeLightLeft_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":0.07333333333333,
+                "y":0.1399999999933,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        },
+				{  
+            "name":"config_exactly_StrobeLightRight_exactly_moverel",
+            "layerOrder":1,
+            "slicePosition":{  
+                "x":1,
+                "y":1
+            },
+            "sliceSize":{  
+                "x":1,
+                "y":1
+            },
+            "position":{  
+                "x":0.07333333333333,
+                "y":-0.1399999999933,
+                "z":0
+            },
+            "flip":{  
+                "x":0,
+                "y":0
+            },
+            "rotation":0
+        }	
+    ]
+}
